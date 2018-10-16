@@ -1,7 +1,7 @@
 var ambience;
 function preload() {
   // put preload code here
-  song = loadSound('addons/244385__tineidae__railway-station-2.wav');
+  song = loadSound('addons/244385__tineidae__railway-station-2.mp3');
 }
 
 //cippi
